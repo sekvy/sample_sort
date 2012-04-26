@@ -1,7 +1,5 @@
  /*
 An c implementation of parallel sorting by regular sampling (PSRS)
-Authors:
-Simon Ekvy & Johan Anderholm
 
 May knock your socks off
 */
