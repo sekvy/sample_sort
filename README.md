@@ -1,4 +1,4 @@
 sample_sort
 ===========
 
-sample sort implementation in c using pthreads
+A c implementation of parallel sorting by regular sampling (PSRS)
